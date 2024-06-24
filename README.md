@@ -1,5 +1,6 @@
 # Nextjs-Server-Actions-Crud
 ## 主要技术栈
+- TypeScript
 - Nextjs
 - TailWindCSS
 - ShadUI
