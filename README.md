@@ -45,8 +45,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Show
 
-![demo1](img/demo-1) 
-![demo2](img/demo-2) 
-![demo3](img/demo-3) 
-![demo4](img/demo-4) 
+![demo1](img/demo-1.png) 
+![demo2](img/demo-2.png) 
+![demo3](img/demo-3.png) 
+![demo4](img/demo-4.png) 
 
