@@ -23,7 +23,7 @@ import { createTask, updateTask } from "@/actions/tasks-actions"
 import { Task } from "@prisma/client"
 import Link from "next/link"
 
-export function TaskForm({ task }?: { task: Task }) {
+export function TaskForm({ task }: { task?: Task }) {
 	const functionAction = task?.id ? updateTask : createTask
 
 	return (
