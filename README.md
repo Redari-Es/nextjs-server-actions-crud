@@ -1,6 +1,6 @@
 # Nextjs-Server-Actions-Crud
 
-[Vercel在线项目演示](https://nextjs-server-actions-crud-v8xl.vercel.app/)
+[Vercel在线项目演示](https://nextjs-server-actions-crud.vercel.app/)
 
 ## 主要技术栈
 - TypeScript
